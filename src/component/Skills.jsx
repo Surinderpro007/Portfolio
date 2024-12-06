@@ -14,7 +14,7 @@ const Skills = () => {
        <Badge  className="px-2 py-1 m-1 bg-black">Bootstrap</Badge>
        <Badge  className="px-2 py-1 m-1 bg-black">Tailwind css</Badge>
        <Badge  className="px-2 py-1 m-1 bg-black">Wordpress</Badge>
-       <Badge  className="px-2 py-1 m-1 bg-black s">Badge</Badge>
+       <Badge  className="px-2 py-1 m-1 bg-black s">Github</Badge>
     </div> 
 
   )
