@@ -29,3 +29,8 @@
   font-family: "Inter", sans-serif;
 
 }
+
+.border-b {
+  border-bottom-width: 0px;
+  padding: 10px 0px;
+}

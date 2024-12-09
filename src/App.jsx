@@ -1,6 +1,7 @@
 
 import './App.css'
 import About from './component/About'
+import Education from './component/Education'
 import Portfolio from './component/Portfolio'
 import Badge from './component/Skills'
 
@@ -12,6 +13,7 @@ function App() {
   <Portfolio/>
   <About/>
   <Badge/>
+  <Education/>
 
       </div>
     </>
