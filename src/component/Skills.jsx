@@ -3,7 +3,7 @@ import { Badge } from "@/components/ui/badge"
 
 const Skills = () => {
   return (
-    <div className='main-container p-4'>
+    <div className='main-container p-4 text-white'>
      <h3>Skills</h3>
        <Badge  className="px-2 py-1 m-1 bg-black">HTML</Badge>
        <Badge  className="px-2 py-1 m-1 bg-black">CSS</Badge>
