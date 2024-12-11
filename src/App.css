@@ -34,3 +34,8 @@
   border-bottom-width: 0px;
   padding: 10px 0px;
 }
+
+.content-card p{
+  font-size: 12px;
+  line-height: 15px;
+}
